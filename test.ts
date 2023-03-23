@@ -11,3 +11,5 @@ type str = ExtractStringType<typeof person>
 // type str = string
 type num = ExtractNumberType<typeof person>
 // type num= number
+// type num= number
+// type num= number

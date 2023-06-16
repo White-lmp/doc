@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,N as l}from"./chunks/framework.67668f16.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"views/typescript/字符串索引（对象）.md"}'),p={name:"views/typescript/字符串索引（对象）.md"},o=l("",2),e=[o];function t(c,r,y,C,i,A){return a(),n("div",null,e)}const F=s(p,[["render",t]]);export{_ as __pageData,F as default};

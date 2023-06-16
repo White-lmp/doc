@@ -2,7 +2,8 @@ import { defineConfig } from 'vitepress'
 
 const relative = path => `/views${path}`
 export default defineConfig({
-  title: '我的前端',
+  title: '我的文档',
+  base:'.',
   description: 'A VitePress Site',
   themeConfig: {
     nav: [

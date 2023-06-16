@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,N as l}from"./chunks/framework.3a447488.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"views/typescript/数字索引（数组）.md"}'),p={name:"views/typescript/数字索引（数组）.md"},o=l("",3),e=[o];function t(c,r,y,i,C,D){return n(),a("div",null,e)}const _=s(p,[["render",t]]);export{F as __pageData,_ as default};

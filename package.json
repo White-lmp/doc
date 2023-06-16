@@ -5,7 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.60",
+    "vitepress": "^1.0.0-beta.2",
     "eslint-define-config": "^1.7.0",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",

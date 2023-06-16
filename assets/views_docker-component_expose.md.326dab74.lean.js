@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,N as n}from"./chunks/framework.3a447488.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"views/docker-component/expose.md"}'),o={name:"views/docker-component/expose.md"},p=n("",7),l=[p];function t(c,r,i,_,d,x){return e(),a("div",null,l)}const D=s(o,[["render",t]]);export{C as __pageData,D as default};
